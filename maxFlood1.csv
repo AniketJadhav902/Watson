@@ -1,4 +1,4 @@
-site_name	datetime	Discharge	Gage_Height	latitude	longitude
-Satara	 08-0507:30	56540	       37.3	    17.9108	 73.916
-Sangali	 08-0508:00	50000     	 39.5	   16.4203	 74.3939
-Kolhapur 08-059:50	700000 	     40.5   	17.23	   74.9075
+site_name,datetime,Discharge,Gage_Height,latitude,longitude
+Satara,8-27 7:30,6640,37.1,29.808611,-95.313056
+Sangali,8-27 5:30,30700,39.54,29.775,-95.396944
+Kolhapur,8-27 23:00,33200,45.08,29.69694444,-95.41194444
