@@ -1,4 +1,4 @@
-site_name,datetime,Discharge,Gage_Height,latitude,longitude
-Satara,8-27 7:30,6640,37.1,29.808611,-95.313056
+District_name,datetime,Rainfall,Gage_Height,latitude,longitude
+Satara,8-27 7:30,6640,37.1,17.9108,73.9160
 Sangali,8-27 5:30,30700,39.54,29.775,-95.396944
 Kolhapur,8-27 23:00,33200,45.08,29.69694444,-95.41194444
